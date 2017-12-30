@@ -1,9 +1,3 @@
-# Basic Python Script Experimentation
-¯\_(ツ)_/¯ ¯\_(ツ)_/¯ ¯\_(ツ)_/¯
-
-
-
-
 ```
                _    _
               ( )_ ( )
@@ -14,6 +8,7 @@
 | |    ( )_| |
 (_)    `\___/'
 
+### Basic Python Script Experimentation
 ```
 
 ```
