@@ -13,6 +13,12 @@
 | |    ( )_| |
 (_)    `\___/'
 
+```
 
-
+```
+bmi.py - Body Mass Index calculator
+timer.py - Simple timer
+default-evn.py - Detect what environment script is running.
+argument-parse.py - Template for argument parsing of scripts.
+reverse-file.py - Script to reverse the contents of a text file w/ exception handling.
 ```
