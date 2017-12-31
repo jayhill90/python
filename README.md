@@ -1,3 +1,5 @@
+### Basic Python Script Experimentation
+
 ```
                _    _
               ( )_ ( )
@@ -8,8 +10,9 @@
 | |    ( )_| |
 (_)    `\___/'
 
-### Basic Python Script Experimentation
 ```
+
+
 
 ```
 bmi.py - Body Mass Index calculator
